@@ -18,7 +18,7 @@ Requirements:
 - Python 3.x
 - [NLTK](https://www.nltk.org/install.html)  
 
-Installation:
+Usage:
 
 Clone the repository to your computer:
 ```bash
@@ -48,5 +48,4 @@ Future Improvements:
 
 - Comparing performance with scikit-learn classifiers
 
-- Modifying to handle longer text samples and multi-language texts
-
+- Modifying to handle longer text samples and multi-lingual texts
