@@ -18,6 +18,8 @@ Requirements:
 - Python 3.x
 - [NLTK](https://www.nltk.org/install.html)  
 
+Installation:
+
 Clone the repository to your computer:
 ```bash
 git clone https://github.com/ZB3131/mini_language_identifier_.git
